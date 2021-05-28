@@ -12,10 +12,7 @@ public class DemoClassGit
 		
 		System.out.println("");
 		
-		public void m1()
-		{
-			
-		}
+		
 	}
 
 }
