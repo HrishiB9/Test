@@ -11,6 +11,11 @@ public class DemoClassGit
 		System.out.println("Git Prac");
 		
 		System.out.println("");
+		
+		public void m1()
+		{
+			
+		}
 	}
 
 }
